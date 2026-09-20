@@ -1,0 +1,25 @@
+{
+    "version": "0.1.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Dhafer84/firstgreenci/releases/download/v0.1.2/firstgreenci_0.1.2_Windows_x86-64.zip",
+            "bin": [
+                "firstgreenci.exe"
+            ],
+            "hash": "00bc1d1435e5cf1b62a4332bb92ab6e413a30a1cb33cfbf4e63aea62383e4f4b"
+        },
+        "arm64": {
+            "url": "https://github.com/Dhafer84/firstgreenci/releases/download/v0.1.2/firstgreenci_0.1.2_Windows_ARM64.zip",
+            "bin": [
+                "firstgreenci.exe"
+            ],
+            "hash": "49ff397c49fab240d4ebd117a7202d67925f5a5c4f0806c27c8e00f0ac03ae27"
+        }
+    },
+    "homepage": "https://github.com/Dhafer84/firstgreenci",
+    "license": "MIT",
+    "description": "Takes your project to its first green CI pipeline, without writing any YAML",
+    "depends": [
+        "act"
+    ]
+}

@@ -1,19 +1,19 @@
 {
-    "version": "0.1.6",
+    "version": "0.1.7",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Dhafer84/firstgreenci/releases/download/v0.1.6/firstgreenci_0.1.6_Windows_x86-64.zip",
+            "url": "https://github.com/Dhafer84/firstgreenci/releases/download/v0.1.7/firstgreenci_0.1.7_Windows_x86-64.zip",
             "bin": [
                 "firstgreenci.exe"
             ],
-            "hash": "4568eb1d289e6596274ead4384647b29cb91b8aa9d274967ead268662a980d5c"
+            "hash": "280e500315bf53d1386760aaf2cd40d5d205feb87aff524d526761cbfb37480f"
         },
         "arm64": {
-            "url": "https://github.com/Dhafer84/firstgreenci/releases/download/v0.1.6/firstgreenci_0.1.6_Windows_ARM64.zip",
+            "url": "https://github.com/Dhafer84/firstgreenci/releases/download/v0.1.7/firstgreenci_0.1.7_Windows_ARM64.zip",
             "bin": [
                 "firstgreenci.exe"
             ],
-            "hash": "c2a8a82ebb8ade937f9d4acd521922ff6a815c09d3564895535b1306cca51ab6"
+            "hash": "6ace0c57aa84f0895b610085877910739f9f11255cb1a123e7a14a5da475bd57"
         }
     },
     "homepage": "https://github.com/Dhafer84/firstgreenci",
